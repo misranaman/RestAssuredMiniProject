@@ -1,0 +1,4 @@
+# Created at 2021-01-08T00:59:37.367
+Boot Manifest-JAR contains absolute paths in classpath 'D:\EclipseWS\VideoGameProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

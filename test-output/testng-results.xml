@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2630" started-at="2021-01-08T00:33:24 IST" finished-at="2021-01-08T00:33:27 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2630" started-at="2021-01-08T00:33:24 IST" finished-at="2021-01-08T00:33:27 IST">
+      <class name="testCases.TC_VideoGameAPITC">
+        <test-method status="PASS" signature="getAllVideoGame()[pri:1, instance:testCases.TC_VideoGameAPITC@4f063c0a]" name="getAllVideoGame" duration-ms="1611" started-at="2021-01-08T00:33:24 IST" finished-at="2021-01-08T00:33:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllVideoGame -->
+        <test-method status="PASS" signature="test_addNewVideoGame()[pri:2, instance:testCases.TC_VideoGameAPITC@4f063c0a]" name="test_addNewVideoGame" duration-ms="313" started-at="2021-01-08T00:33:26 IST" finished-at="2021-01-08T00:33:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addNewVideoGame -->
+        <test-method status="PASS" signature="test_getVideoGame()[pri:3, instance:testCases.TC_VideoGameAPITC@4f063c0a]" name="test_getVideoGame" duration-ms="588" started-at="2021-01-08T00:33:26 IST" finished-at="2021-01-08T00:33:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getVideoGame -->
+        <test-method status="PASS" signature="test_UpdateVideoGame()[pri:4, instance:testCases.TC_VideoGameAPITC@4f063c0a]" name="test_UpdateVideoGame" duration-ms="50" started-at="2021-01-08T00:33:27 IST" finished-at="2021-01-08T00:33:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_UpdateVideoGame -->
+        <test-method status="PASS" signature="test_DeleteVideoGame()[pri:5, instance:testCases.TC_VideoGameAPITC@4f063c0a]" name="test_DeleteVideoGame" duration-ms="24" started-at="2021-01-08T00:33:27 IST" finished-at="2021-01-08T00:33:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DeleteVideoGame -->
+      </class> <!-- testCases.TC_VideoGameAPITC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
